@@ -19,4 +19,4 @@ Skills:  REACT / JS /NODE.JS/ EXPRESS.JS/MONGODB/ HTML / CSS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/sakilhasan1)  
+
