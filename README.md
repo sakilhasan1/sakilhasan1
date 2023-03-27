@@ -4,8 +4,8 @@
 #### Web Developer
 
 
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScript as well as PHP.
 
-Love to learn new skills. Now learning Next.js. Full and fresh hand code is my power. Client satisfaction is my first priority.
 
 Skills:  REACT / JS /NODE.JS/ EXPRESS.JS/MONGODB/ HTML / CSS
 
